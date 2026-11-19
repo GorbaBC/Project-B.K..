@@ -1,0 +1,47 @@
+.lol {
+display: none;
+}
+
+#final-word {
+font-size: 48px;
+font-weight: bold;
+color: #333;
+display: none; /* Скрыто по умолчанию */
+}
+.kek {
+display: none;
+}
+
+#final-word {
+font-size: 48px;
+font-weight: bold;
+color: #333;
+display: none; /* Скрыто по умолчанию */
+}
+
+
+.l {
+color: black;
+border-radius: 30px;
+padding: 10px;
+cursor: pointer;
+margin-top: 10px;
+position: 50px;
+}
+
+.l :hover {
+background-color: #9c9c9c;
+}
+
+
+.Xex {
+    display: none;
+}
+
+.XeX {
+    display: none;
+}
+
+.hidden {
+    display: none;
+}
